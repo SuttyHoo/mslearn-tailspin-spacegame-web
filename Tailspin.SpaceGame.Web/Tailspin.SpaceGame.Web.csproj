@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web" Version="3.1.100">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
