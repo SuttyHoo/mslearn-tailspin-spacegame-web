@@ -37,7 +37,7 @@ steps:
     command: 'publish'
     projects: '**/*.csproj'
     publishWebProjects: false
-    arguments: '--no-build --configuration Release --output $(Build.ArtifactStagingDirectory)/Release'
+    arguments: '--no-build --configuration Release --output Tailspin.SpaceGame.Web/Release'
     zipAfterPublish: true
     modifyOutputPath: true
 
